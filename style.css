@@ -33,3 +33,24 @@ padding: 8px 8px;
     display: flex;
     padding-top: 8%;
 }
+
+.Journey-as{
+    margin-left: 42px;
+}
+
+.paragraph-1{
+    padding-left: 5%;
+    text-align: justify;
+}
+    
+.Preebook-now{
+    text-decoration: none;
+    color: rgb(247, 244, 244);
+   margin-left: 42px;
+    background-color: #e02c6d;
+    border-radius: 10%;
+}
+.image-1:hover{
+    transform: scale(1.2);
+
+}
