@@ -1,5 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0%;
 }
 
 /*------top heading and nevigation style-------*/
@@ -306,7 +307,23 @@ padding: 8px 8px;
     border: solid black;
     width: 65%;
     margin-left: 20%;
-    margin-bottom: 30%;
+    margin-bottom: 10%;
 
 
+}
+
+.footer-section{
+    color: white;
+    text-align: center;
+    border: solid black;
+    border-radius: 1%;
+    background-color: rgb(6, 9, 27);
+}
+
+.footer-div-2{
+    font-size: 2em;
+}
+
+.fab{
+    color: #e02c6d;
 }
